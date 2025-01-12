@@ -6,7 +6,7 @@ date: '2021-10-15'
 client: Awesome client
 description: >-
   I built this wiki based on the game Mall Drifters for Roblox this wiki is
-  owned and managed by me
+  owned and managed by me.
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
