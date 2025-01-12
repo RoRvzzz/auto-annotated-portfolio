@@ -8,6 +8,6 @@ backgroundImage:
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 43
+  opacity: 100
   url: /images/featured-Image2.jpg
 ---
