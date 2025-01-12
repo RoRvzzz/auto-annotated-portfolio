@@ -9,4 +9,5 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
+  url: /images/logo2.svg
 ---
