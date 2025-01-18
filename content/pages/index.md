@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 sections:
   - type: FeaturedProjectsSection
-    subtitle: 'Projects:'
+    subtitle: Here are a few projects I work on!
     actions:
       - type: Link
         label: See all projects
