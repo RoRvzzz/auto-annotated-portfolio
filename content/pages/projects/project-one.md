@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Mall Drifters Wiki
-colors: colors-d
+colors: colors-e
 date: '2021-10-15'
 client: Awesome client
 description: >-
