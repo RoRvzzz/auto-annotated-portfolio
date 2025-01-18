@@ -9,7 +9,7 @@ description: >-
   owned and managed by me.
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/MD-Logo.png
   altText: Project image
 featuredImage:
   type: ImageBlock
