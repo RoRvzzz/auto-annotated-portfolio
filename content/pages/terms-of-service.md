@@ -5,7 +5,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: This in an empty page
+    title: Terms of Service
     subtitle: The section subtitle
     text: >
       *Last Updated: 01/18/2025 (mm/dd/yyyy)*
