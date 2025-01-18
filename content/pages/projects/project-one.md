@@ -20,7 +20,7 @@ media:
   elementId: ''
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/MD-CleanLogo.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
