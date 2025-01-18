@@ -7,10 +7,6 @@ client: Awesome client
 description: >-
   I built this wiki based on the game Mall Drifters for Roblox this wiki is
   owned and managed by me.
-media:
-  type: ImageBlock
-  url: /images/about.jpg
-  altText: Project image
 featuredImage:
   type: ImageBlock
   altText: altText of the image
