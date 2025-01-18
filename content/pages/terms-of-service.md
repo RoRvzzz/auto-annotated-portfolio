@@ -6,7 +6,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Terms of Service
-    subtitle: The section subtitle
+    subtitle: 'By using this bot, you agree to these terms.'
     text: >
       *Last Updated: 01/18/2025 (mm/dd/yyyy)*
 
