@@ -77,7 +77,8 @@ sections:
         icon: arrowRight
         iconPosition: right
         elementId: ''
-    projects: []
+    projects:
+      - content/pages/projects/mall-drifters-wiki.md
     colors: colors-f
     variant: variant-a
     elementId: ''
