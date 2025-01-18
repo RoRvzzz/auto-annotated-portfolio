@@ -40,7 +40,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: center
-    title: 'Hi, I''m RoRvzz '
+    title: 'Hi, I''m RoRvzzz'
 backgroundImage:
   type: BackgroundImage
   backgroundSize: cover
