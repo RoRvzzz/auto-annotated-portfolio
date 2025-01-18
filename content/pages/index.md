@@ -77,8 +77,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         elementId: ''
-    projects:
-      - content/pages/projects/project-one.md
+    projects: []
     colors: colors-f
     variant: variant-a
     elementId: ''
