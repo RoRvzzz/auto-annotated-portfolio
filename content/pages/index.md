@@ -7,13 +7,31 @@ sections:
     colors: colors-f
     variant: variant-b
     title: This site is to manage personal projects
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >+
+      **About This Site**
+
+
+      Welcome to the official site for RoRvzzz! This website serves as a hub for
+      all information related to my projects, 
+
+
+      ## What You’ll Find Here
+
+
+      *   **Bot Information:** Details on how SpookyBot works and its features.
+
+
+      *   **Terms & Privacy:** Our Terms of Service and Privacy Policy to help
+      you understand how we operate and protect your data.
+
+
+      *   **Contact Information:** Get in touch with us for support, inquiries,
+      or feedback.
+
+
+
+
+
     elementId: ''
     styles:
       self:
