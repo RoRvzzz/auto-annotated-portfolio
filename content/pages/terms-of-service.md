@@ -7,8 +7,8 @@ sections:
     variant: variant-a
     title: This in an empty page
     subtitle: The section subtitle
-    text: >+
-      *Last Updated: \[Insert Date]*
+    text: >
+      *Last Updated: 01/18/2025 (mm/dd/yyyy)*
 
 
       Welcome to SpookyBot! By using SpookyBot, you agree to these Terms of
@@ -89,23 +89,18 @@ sections:
 
       Any disputes arising from these terms shall be resolved through informal
       negotiations. If no resolution is reached, disputes will be handled
-      following the laws of \[Your Country/State].
+      following the laws of the United States.
 
 
       ## 8. Contact Information
 
 
       For any questions or concerns regarding these Terms of Service, contact us
-      at \[Your Email/Support Contact].
+      at RoRvzzz\@pm.me
 
 
       By using SpookyBot, you acknowledge that you have read, understood, and
       agreed to these terms.
-
-
-
-
-
     elementId: ''
     styles:
       self:
