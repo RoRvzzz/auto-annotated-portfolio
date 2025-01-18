@@ -77,6 +77,14 @@ sections:
         icon: arrowRight
         iconPosition: right
         elementId: ''
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: 'https://mall-drifters.fandom.com/wiki/Mall_Drifters_Wiki'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     projects:
       - content/pages/projects/mall-drifters-wiki.md
     colors: colors-f
