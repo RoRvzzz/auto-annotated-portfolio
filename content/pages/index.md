@@ -6,7 +6,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-b
-    title: This site is to manage personal projects\
+    title: This site is to manage personal projects
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
